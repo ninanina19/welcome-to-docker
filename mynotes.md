@@ -1,8 +1,9 @@
 # Docker 
 ## Introduction to Container
-Virutal Mechine (VM)
+The container is allow a device have some mechine on it. Different from virtual mechine that have to install OS into it, but container doesn't need that. The container use OS default from their host (our laptop). For instance, if you have windows in your device, then the container is use windows as well.
+
 ## Introduction to Docker
-Docker is container manager. It is free and Open Source application and it is released in 2013. 
+Docker is container manager. It is free and Open Source application and it is released in 2013. Docker have UI to allow manage container easily.
 ## How to install Docker
 ## Docker Architecture
 
